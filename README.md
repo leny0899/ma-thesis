@@ -1,1 +1,1 @@
-# MA-Thesis
+# ma-thesis
